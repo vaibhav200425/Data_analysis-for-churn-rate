@@ -116,8 +116,3 @@ print(f"Escalation-to-Churn Correlation: {correlation:.4f}")
 
 ```
 
-### Tips for Customization before publishing:
-1. **Change the URL placeholders:** Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` in the Clone section with your actual GitHub path.
-2. **Add a Visual:** If you generate plots or charts (like a correlation heatmap or a bar chart of the regional budgets), save the image, commit it to your repository, and link it under a `## Visualizations` header to make the README pop!
-
-```
